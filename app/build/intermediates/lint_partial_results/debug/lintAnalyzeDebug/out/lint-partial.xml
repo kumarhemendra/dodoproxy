@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.4.1" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.example.proxytoggle.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="drawable[ic_launcher(U),ic_arrow_drop_down(U),ic_info(U),ic_power(U),ic_theme(U)],string[app_name(U),switch_to_light_theme(U),switch_to_dark_theme(U),proxy_information(U),connect_proxy(U),disconnect_proxy(U),proxy_status_accessibility(U),connected(U),disconnected(U),connected_lowercase(U),disconnected_lowercase(U),ip_address(U),port(U),invalid_host(U),invalid_port(U),allow_proxy_control(U),adb_grant_command(U),permission_message(U),info_message(U),status_using_proxy(U),status_no_proxy(U),status_other_proxy(U),adb_command_label(U),adb_command_copied(U),copy_command(U),close(U),proxy_enabled(U),proxy_disabled(U),proxy_apply_failed(U),proxy_disable_failed(U)],style[AppTheme(U)],xml[data_extraction_rules(U),backup_rules(U),locales_config(U)];;;;"/>
+    </map>
+
+</incidents>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_command_copied">ADB command copied</string>
+    <string name="adb_command_label">ADB grant command</string>
+    <string name="adb_grant_command">adb shell pm grant com.dodo.proxytoggle android.permission.WRITE_SECURE_SETTINGS</string>
+    <string name="allow_proxy_control">Allow proxy control</string>
+    <string name="app_name">DodoProxy</string>
+    <string name="close">Close</string>
+    <string name="connect_proxy">Connect proxy</string>
+    <string name="connected">CONNECTED</string>
+    <string name="connected_lowercase">connected</string>
+    <string name="copy_command">Copy command</string>
+    <string name="copyright_notice" translatable="false">© 2026 dodoworldstudio · DodoProxy</string>
+    <string name="disconnect_proxy">Disconnect proxy</string>
+    <string name="disconnected">DISCONNECTED</string>
+    <string name="disconnected_lowercase">disconnected</string>
+    <string name="info_message">Uninstalling Proxy Toggle while the proxy is enabled can leave your device with this setting.\n\nMake sure the proxy is disabled before uninstalling the app.</string>
+    <string name="invalid_host">Enter a valid IP address or hostname</string>
+    <string name="invalid_port">Port must be between 1 and 65535</string>
+    <string name="ip_address">IP Address</string>
+    <string name="no_saved_proxies">No saved proxies yet. Connect once to save one.</string>
+    <string name="permission_message">Android protects the system-wide proxy setting. Grant this app access once from a computer with USB debugging enabled, then reopen the app and connect.\n\n%1$s</string>
+    <string name="port">Port</string>
+    <string name="proxy_apply_failed">Android could not apply the system proxy</string>
+    <string name="proxy_disable_failed">Android could not disable the system proxy</string>
+    <string name="proxy_disabled">System proxy disabled</string>
+    <string name="proxy_enabled">System proxy enabled</string>
+    <string name="proxy_information">Proxy information</string>
+    <string name="proxy_status_accessibility">Proxy status: %1$s. Show details.</string>
+    <string name="proxy_status_details">Proxy status</string>
+    <string name="remove_saved_proxy">Remove %1$s</string>
+    <string name="saved_proxies">Saved proxies</string>
+    <string name="status_no_proxy">No system HTTP proxy is enabled.</string>
+    <string name="status_other_proxy">Another system proxy is currently configured: %1$s</string>
+    <string name="status_using_proxy">This device is using %1$s as its system HTTP proxy.</string>
+    <string name="switch_to_dark_theme">Switch to dark theme</string>
+    <string name="switch_to_light_theme">Switch to light theme</string>
+    <style name="AppTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#00E5FF</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
