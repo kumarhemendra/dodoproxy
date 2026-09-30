@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="DodoProxy — Android system HTTP proxy control">
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#050A14"/>
+      <stop offset="1" stop-color="#092237"/>
+    </linearGradient>
+    <linearGradient id="cyan" x2="1" y2="1">
+      <stop stop-color="#63F6F6"/>
+      <stop offset="1" stop-color="#00BBD5"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#00E5FF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#22758B" stroke-opacity=".14"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#background)"/>
+  <rect width="1280" height="640" fill="url(#grid)"/>
+  <circle cx="320" cy="320" r="290" fill="url(#glow)"/>
+  <path d="M0 515C335 395 555 468 785 610M520 0C865 230 1010 85 1280 200" fill="none" stroke="#21AFC5" stroke-opacity=".11" stroke-width="2"/>
+
+  <!-- Circuit traces echo the app's shield and network artwork. -->
+  <g fill="none" stroke="#28DCEB" stroke-opacity=".46" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 205h88l54 54h74M80 286h80l51-51h64M80 365h83l56-56h69M80 440h82l73-73h55"/>
+    <path d="M535 205h-70l-54 54h-46M535 286h-67l-51-51h-52M535 365h-70l-56-56h-44M535 440h-70l-73-73h-27"/>
+  </g>
+  <g fill="#63F6F6">
+    <circle cx="168" cy="205" r="5"/><circle cx="160" cy="286" r="5"/>
+    <circle cx="163" cy="365" r="5"/><circle cx="162" cy="440" r="5"/>
+    <circle cx="465" cy="205" r="5"/><circle cx="468" cy="286" r="5"/>
+    <circle cx="465" cy="365" r="5"/><circle cx="465" cy="440" r="5"/>
+  </g>
+
+  <circle cx="320" cy="320" r="178" fill="#050A14" stroke="#237789" stroke-width="2"/>
+  <circle cx="320" cy="320" r="160" fill="#071B2B" stroke="#28DCEB" stroke-opacity=".24" stroke-width="2"/>
+  <!-- Same shield and circuit geometry as the Android launcher icon, scaled up. -->
+  <g transform="translate(152 152) scale(7)">
+    <path d="M24 1a23 23 0 1 0 0 46a23 23 0 1 0 0-46" fill="#050A14"/>
+    <path d="M24 6C20 9 15 10 10 11v10c0 10 5 17 14 21 9-4 14-11 14-21V11C33 10 28 9 24 6z" fill="#0A2940" stroke="#63F6F6" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M16 17h4l4 4v7l-4 4h-4M32 17h-4l-4 4M32 32h-4l-4-4M15 24h5m8 0h5M24 13v4m0 15v4" fill="none" stroke="#28DCEB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#63F6F6">
+      <circle cx="16" cy="17" r="1.5"/><circle cx="32" cy="17" r="1.5"/>
+      <circle cx="16" cy="32" r="1.5"/><circle cx="32" cy="32" r="1.5"/>
+      <circle cx="24" cy="24" r="2"/>
+    </g>
+  </g>
+
+  <rect x="576" y="180" width="180" height="35" rx="17.5" fill="#0D3442" stroke="#28DCEB" stroke-opacity=".65"/>
+  <text x="666" y="203" fill="#63F6F6" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" letter-spacing="2" text-anchor="middle">ANDROID APP</text>
+  <text x="570" y="322" fill="#F3FCFF" font-family="Arial, Helvetica, sans-serif" font-size="80" font-weight="bold" letter-spacing="-3">DodoProxy</text>
+  <rect x="576" y="350" width="390" height="5" rx="2.5" fill="url(#cyan)"/>
+  <text x="576" y="411" fill="#B9D5E0" font-family="Arial, Helvetica, sans-serif" font-size="30">System HTTP proxy control</text>
+  <text x="576" y="462" fill="#8FAEBC" font-family="Arial, Helvetica, sans-serif" font-size="23">Connect. Disconnect. Stay in control.</text>
+</svg>
