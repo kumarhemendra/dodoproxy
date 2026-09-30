@@ -15,9 +15,8 @@
     <string name="invalid_host">Introduce una dirección IP o un nombre de host válido</string>
     <string name="invalid_port">El puerto debe estar entre 1 y 65535</string>
     <string name="allow_proxy_control">Permitir el control del proxy</string>
-    <string name="adb_grant_command">adb shell pm grant com.dodo.proxytoggle android.permission.WRITE_SECURE_SETTINGS</string>
     <string name="permission_message">Android protege la configuración del proxy del sistema. Concede acceso a esta aplicación una vez desde un ordenador con la depuración USB activada y vuelve a abrirla para conectarte.\n\n%1$s</string>
-    <string name="info_message">Si desinstalas Proxy Toggle con el proxy activado, esta configuración puede permanecer en el dispositivo.\n\nDesactiva el proxy antes de desinstalar la aplicación.</string>
+    <string name="info_message">Si desinstalas DodoProxy con el proxy activado, esta configuración puede permanecer en el dispositivo.\n\nDesactiva el proxy antes de desinstalar la aplicación.</string>
     <string name="status_using_proxy">Este dispositivo usa %1$s como proxy HTTP del sistema.</string>
     <string name="status_no_proxy">No hay ningún proxy HTTP del sistema activado.</string>
     <string name="status_other_proxy">Hay otro proxy del sistema configurado: %1$s</string>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_command_copied">Команда ADB скопирована</string>
+    <string name="adb_command_label">Команда ADB для выдачи разрешения</string>
+    <string name="allow_proxy_control">Разрешить управление прокси</string>
+    <string name="app_name">DodoProxy</string>
+    <string name="close">Закрыть</string>
+    <string name="connect_proxy">Подключить прокси</string>
+    <string name="connected">ПОДКЛЮЧЕНО</string>
+    <string name="connected_lowercase">подключено</string>
+    <string name="copy_command">Скопировать команду</string>
+    <string name="disconnect_proxy">Отключить прокси</string>
+    <string name="disconnected">ОТКЛЮЧЕНО</string>
+    <string name="disconnected_lowercase">отключено</string>
+    <string name="info_message">Если удалить DodoProxy при включённом прокси, эта настройка может остаться на устройстве.\n\nОтключите прокси перед удалением приложения.</string>
+    <string name="invalid_host">Введите корректный IP-адрес или имя хоста</string>
+    <string name="invalid_port">Порт должен быть от 1 до 65535</string>
+    <string name="ip_address">IP-адрес</string>
+    <string name="no_saved_proxies">Сохранённых прокси пока нет. Подключитесь, чтобы сохранить прокси.</string>
+    <string name="permission_message">Android защищает системные настройки прокси. Один раз предоставьте приложению доступ с компьютера с включённой отладкой по USB, затем откройте приложение снова и подключитесь.\n\n%1$s</string>
+    <string name="port">Порт</string>
+    <string name="proxy_apply_failed">Android не удалось включить системный прокси</string>
+    <string name="proxy_disable_failed">Android не удалось отключить системный прокси</string>
+    <string name="proxy_disabled">Системный прокси отключён</string>
+    <string name="proxy_enabled">Системный прокси включён</string>
+    <string name="proxy_information">Информация о прокси</string>
+    <string name="proxy_status_accessibility">Состояние прокси: %1$s. Показать подробности.</string>
+    <string name="proxy_status_details">Состояние прокси</string>
+    <string name="remove_saved_proxy">Удалить %1$s</string>
+    <string name="saved_proxies">Сохранённые прокси</string>
+    <string name="status_no_proxy">Системный HTTP-прокси не включён.</string>
+    <string name="status_other_proxy">Настроен другой системный прокси: %1$s</string>
+    <string name="status_using_proxy">Это устройство использует %1$s в качестве системного HTTP-прокси.</string>
+    <string name="switch_to_dark_theme">Переключить на тёмную тему</string>
+    <string name="switch_to_light_theme">Переключить на светлую тему</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DodoProxy</string>
+    <string name="switch_to_light_theme">Перейти до світлої теми</string>
+    <string name="switch_to_dark_theme">Перейти до темної теми</string>
+    <string name="proxy_information">Інформація про проксі</string>
+    <string name="connect_proxy">Підключити проксі</string>
+    <string name="disconnect_proxy">Відключити проксі</string>
+    <string name="proxy_status_accessibility">Стан проксі: %1$s. Показати подробиці.</string>
+    <string name="connected">ПІДКЛЮЧЕНО</string>
+    <string name="disconnected">ВІДКЛЮЧЕНО</string>
+    <string name="connected_lowercase">підключено</string>
+    <string name="disconnected_lowercase">відключено</string>
+    <string name="ip_address">IP-адреса</string>
+    <string name="port">Порт</string>
+    <string name="invalid_host">Введіть дійсну IP-адресу або ім’я хоста</string>
+    <string name="invalid_port">Порт має бути в діапазоні від 1 до 65535</string>
+    <string name="allow_proxy_control">Дозволити керування проксі</string>
+    <string name="permission_message">Android захищає загальносистемні налаштування проксі. Один раз надайте застосунку доступ із комп’ютера з увімкненим налагодженням USB, потім відкрийте застосунок знову й підключіться.\n\n%1$s</string>
+    <string name="info_message">Якщо видалити DodoProxy, коли проксі ввімкнено, це налаштування може залишитися на пристрої.\n\nВимкніть проксі перед видаленням застосунку.</string>
+    <string name="status_using_proxy">Цей пристрій використовує %1$s як системний HTTP-проксі.</string>
+    <string name="status_no_proxy">Системний HTTP-проксі не ввімкнено.</string>
+    <string name="status_other_proxy">Налаштовано інший системний проксі: %1$s</string>
+    <string name="adb_command_label">Команда ADB для надання дозволу</string>
+    <string name="adb_command_copied">Команду ADB скопійовано</string>
+    <string name="copy_command">Копіювати команду</string>
+    <string name="close">Закрити</string>
+    <string name="proxy_enabled">Системний проксі ввімкнено</string>
+    <string name="proxy_disabled">Системний проксі вимкнено</string>
+    <string name="proxy_apply_failed">Android не вдалося ввімкнути системний проксі</string>
+    <string name="proxy_disable_failed">Android не вдалося вимкнути системний проксі</string>
+    <string name="saved_proxies">Збережені проксі</string>
+    <string name="remove_saved_proxy">Видалити %1$s</string>
+    <string name="no_saved_proxies">Збережених проксі поки немає. Підключіться, щоб зберегти проксі.</string>
+    <string name="proxy_status_details">Стан проксі</string>
+</resources>

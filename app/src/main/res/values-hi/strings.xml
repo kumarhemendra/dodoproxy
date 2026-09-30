@@ -15,9 +15,8 @@
     <string name="invalid_host">मान्य IP पता या होस्टनाम दर्ज करें</string>
     <string name="invalid_port">पोर्ट 1 से 65535 के बीच होना चाहिए</string>
     <string name="allow_proxy_control">प्रॉक्सी नियंत्रण की अनुमति दें</string>
-    <string name="adb_grant_command">adb shell pm grant com.dodo.proxytoggle android.permission.WRITE_SECURE_SETTINGS</string>
     <string name="permission_message">Android सिस्टम-वाइड प्रॉक्सी सेटिंग की सुरक्षा करता है। USB डिबगिंग सक्षम कंप्यूटर से इस ऐप को एक बार अनुमति दें, फिर ऐप को दोबारा खोलकर कनेक्ट करें।\n\n%1$s</string>
-    <string name="info_message">प्रॉक्सी चालू रहते हुए Proxy Toggle को अनइंस्टॉल करने पर यह सेटिंग डिवाइस पर बनी रह सकती है।\n\nऐप अनइंस्टॉल करने से पहले प्रॉक्सी बंद करें।</string>
+    <string name="info_message">प्रॉक्सी चालू रहते हुए DodoProxy को अनइंस्टॉल करने पर यह सेटिंग डिवाइस पर बनी रह सकती है।\n\nऐप अनइंस्टॉल करने से पहले प्रॉक्सी बंद करें।</string>
     <string name="status_using_proxy">यह डिवाइस %1$s को सिस्टम HTTP प्रॉक्सी के रूप में उपयोग कर रहा है।</string>
     <string name="status_no_proxy">कोई सिस्टम HTTP प्रॉक्सी चालू नहीं है।</string>
     <string name="status_other_proxy">एक अन्य सिस्टम प्रॉक्सी कॉन्फ़िगर है: %1$s</string>

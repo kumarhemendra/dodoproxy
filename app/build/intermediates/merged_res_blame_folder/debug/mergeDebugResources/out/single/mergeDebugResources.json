@@ -28,16 +28,16 @@
         "source": "/Users/hemendra.kumar/.gradle/daemon/9.8.0/com.dodo.proxytoggle.app-main-37:/drawable/ic_arrow_drop_down.xml"
     },
     {
-        "merged": "com.dodo.proxytoggle.app-debug-35:/drawable_illustration_security_network.xml.flat",
-        "source": "com.dodo.proxytoggle.app-main-37:/drawable/illustration_security_network.xml"
-    },
-    {
         "merged": "/Users/hemendra.kumar/.gradle/daemon/9.8.0/com.dodo.proxytoggle.app-debug-35:/xml_backup_rules.xml.flat",
         "source": "/Users/hemendra.kumar/.gradle/daemon/9.8.0/com.dodo.proxytoggle.app-main-37:/xml/backup_rules.xml"
     },
     {
         "merged": "/Users/hemendra.kumar/.gradle/daemon/9.8.0/com.dodo.proxytoggle.app-debug-35:/drawable_illustration_security_network.xml.flat",
         "source": "/Users/hemendra.kumar/.gradle/daemon/9.8.0/com.dodo.proxytoggle.app-main-37:/drawable/illustration_security_network.xml"
+    },
+    {
+        "merged": "com.dodo.proxytoggle.app-debug-35:/xml_locales_config.xml.flat",
+        "source": "com.dodo.proxytoggle.app-main-37:/xml/locales_config.xml"
     },
     {
         "merged": "/Users/hemendra.kumar/.gradle/daemon/9.8.0/com.dodo.proxytoggle.app-debug-35:/drawable_ic_power.xml.flat",

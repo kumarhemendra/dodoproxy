@@ -15,9 +15,9 @@
     <string name="invalid_host">Enter a valid IP address or hostname</string>
     <string name="invalid_port">Port must be between 1 and 65535</string>
     <string name="allow_proxy_control">Allow proxy control</string>
-    <string name="adb_grant_command">adb shell pm grant com.dodo.proxytoggle android.permission.WRITE_SECURE_SETTINGS</string>
+    <string name="adb_grant_command" translatable="false">adb shell pm grant com.dodo.proxytoggle android.permission.WRITE_SECURE_SETTINGS</string>
     <string name="permission_message">Android protects the system-wide proxy setting. Grant this app access once from a computer with USB debugging enabled, then reopen the app and connect.\n\n%1$s</string>
-    <string name="info_message">Uninstalling Proxy Toggle while the proxy is enabled can leave your device with this setting.\n\nMake sure the proxy is disabled before uninstalling the app.</string>
+    <string name="info_message">Uninstalling DodoProxy while the proxy is enabled can leave your device with this setting.\n\nMake sure the proxy is disabled before uninstalling the app.</string>
     <string name="status_using_proxy">This device is using %1$s as its system HTTP proxy.</string>
     <string name="status_no_proxy">No system HTTP proxy is enabled.</string>
     <string name="status_other_proxy">Another system proxy is currently configured: %1$s</string>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_command_copied">ADB 명령을 복사했습니다</string>
+    <string name="adb_command_label">권한 부여용 ADB 명령</string>
+    <string name="allow_proxy_control">프록시 제어 허용</string>
+    <string name="app_name">DodoProxy</string>
+    <string name="close">닫기</string>
+    <string name="connect_proxy">프록시 연결</string>
+    <string name="connected">연결됨</string>
+    <string name="connected_lowercase">연결됨</string>
+    <string name="copy_command">명령 복사</string>
+    <string name="disconnect_proxy">프록시 연결 해제</string>
+    <string name="disconnected">연결 안 됨</string>
+    <string name="disconnected_lowercase">연결 안 됨</string>
+    <string name="info_message">프록시가 켜진 상태에서 DodoProxy를 제거하면 이 설정이 기기에 남을 수 있습니다.\n\n앱을 제거하기 전에 프록시를 끄세요.</string>
+    <string name="invalid_host">올바른 IP 주소 또는 호스트 이름을 입력하세요</string>
+    <string name="invalid_port">포트는 1에서 65535 사이여야 합니다</string>
+    <string name="ip_address">IP 주소</string>
+    <string name="no_saved_proxies">저장된 프록시가 없습니다. 한 번 연결하면 저장됩니다.</string>
+    <string name="permission_message">Android는 시스템 전체 프록시 설정을 보호합니다. USB 디버깅이 활성화된 컴퓨터에서 이 앱에 한 번 권한을 부여한 다음 앱을 다시 열어 연결하세요.\n\n%1$s</string>
+    <string name="port">포트</string>
+    <string name="proxy_apply_failed">Android에서 시스템 프록시를 활성화하지 못했습니다</string>
+    <string name="proxy_disable_failed">Android에서 시스템 프록시를 비활성화하지 못했습니다</string>
+    <string name="proxy_disabled">시스템 프록시가 비활성화되었습니다</string>
+    <string name="proxy_enabled">시스템 프록시가 활성화되었습니다</string>
+    <string name="proxy_information">프록시 정보</string>
+    <string name="proxy_status_accessibility">프록시 상태: %1$s. 자세히 보기.</string>
+    <string name="proxy_status_details">프록시 상태</string>
+    <string name="remove_saved_proxy">%1$s 삭제</string>
+    <string name="saved_proxies">저장된 프록시</string>
+    <string name="status_no_proxy">활성화된 시스템 HTTP 프록시가 없습니다.</string>
+    <string name="status_other_proxy">다른 시스템 프록시가 설정되어 있습니다: %1$s</string>
+    <string name="status_using_proxy">이 기기는 %1$s을(를) 시스템 HTTP 프록시로 사용 중입니다.</string>
+    <string name="switch_to_dark_theme">다크 테마로 전환</string>
+    <string name="switch_to_light_theme">라이트 테마로 전환</string>
+</resources>

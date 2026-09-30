@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DodoProxy</string>
+    <string name="switch_to_light_theme">Vaihda vaaleaan teemaan</string>
+    <string name="switch_to_dark_theme">Vaihda tummaan teemaan</string>
+    <string name="proxy_information">Välityspalvelimen tiedot</string>
+    <string name="connect_proxy">Yhdistä välityspalvelimeen</string>
+    <string name="disconnect_proxy">Katkaise välityspalvelimen yhteys</string>
+    <string name="proxy_status_accessibility">Välityspalvelimen tila: %1$s. Näytä tiedot.</string>
+    <string name="connected">YHDISTETTY</string>
+    <string name="disconnected">YHTEYS KATKAISTU</string>
+    <string name="connected_lowercase">yhdistetty</string>
+    <string name="disconnected_lowercase">yhteys katkaistu</string>
+    <string name="ip_address">IP-osoite</string>
+    <string name="port">Portti</string>
+    <string name="invalid_host">Anna kelvollinen IP-osoite tai isäntänimi</string>
+    <string name="invalid_port">Portin on oltava välillä 1–65535</string>
+    <string name="allow_proxy_control">Salli välityspalvelimen hallinta</string>
+    <string name="permission_message">Android suojaa koko järjestelmän välityspalvelinasetusta. Anna sovellukselle käyttöoikeus kerran tietokoneelta, jossa USB-virheenkorjaus on käytössä. Avaa sitten sovellus uudelleen ja yhdistä.\n\n%1$s</string>
+    <string name="info_message">Jos poistat DodoProxyn välityspalvelimen ollessa käytössä, asetus voi jäädä laitteelle.\n\nPoista välityspalvelin käytöstä ennen sovelluksen poistamista.</string>
+    <string name="status_using_proxy">Tämä laite käyttää osoitetta %1$s järjestelmän HTTP-välityspalvelimena.</string>
+    <string name="status_no_proxy">Järjestelmän HTTP-välityspalvelin ei ole käytössä.</string>
+    <string name="status_other_proxy">Toinen järjestelmän välityspalvelin on määritetty: %1$s</string>
+    <string name="adb_command_label">ADB-komento käyttöoikeuden myöntämiseen</string>
+    <string name="adb_command_copied">ADB-komento kopioitu</string>
+    <string name="copy_command">Kopioi komento</string>
+    <string name="close">Sulje</string>
+    <string name="proxy_enabled">Järjestelmän välityspalvelin otettu käyttöön</string>
+    <string name="proxy_disabled">Järjestelmän välityspalvelin poistettu käytöstä</string>
+    <string name="proxy_apply_failed">Android ei voinut ottaa järjestelmän välityspalvelinta käyttöön</string>
+    <string name="proxy_disable_failed">Android ei voinut poistaa järjestelmän välityspalvelinta käytöstä</string>
+    <string name="saved_proxies">Tallennetut välityspalvelimet</string>
+    <string name="remove_saved_proxy">Poista %1$s</string>
+    <string name="no_saved_proxies">Ei tallennettuja välityspalvelimia. Yhdistä kerran tallentaaksesi yhden.</string>
+    <string name="proxy_status_details">Välityspalvelimen tila</string>
+</resources>

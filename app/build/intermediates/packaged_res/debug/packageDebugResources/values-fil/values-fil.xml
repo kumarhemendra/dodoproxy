@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_command_copied">Nakopya ang ADB command</string>
+    <string name="adb_command_label">ADB command para magbigay ng pahintulot</string>
+    <string name="allow_proxy_control">Payagan ang pagkontrol sa proxy</string>
+    <string name="app_name">DodoProxy</string>
+    <string name="close">Isara</string>
+    <string name="connect_proxy">Ikonekta ang proxy</string>
+    <string name="connected">NAKAKONEKTA</string>
+    <string name="connected_lowercase">nakakonekta</string>
+    <string name="copy_command">Kopyahin ang command</string>
+    <string name="disconnect_proxy">Idiskonekta ang proxy</string>
+    <string name="disconnected">NAKADISKONEKTA</string>
+    <string name="disconnected_lowercase">nakadiskonekta</string>
+    <string name="info_message">Kung ia-uninstall ang DodoProxy habang naka-enable ang proxy, maaaring manatili ang setting na ito sa iyong device.\n\nI-disable ang proxy bago i-uninstall ang app.</string>
+    <string name="invalid_host">Maglagay ng wastong IP address o hostname</string>
+    <string name="invalid_port">Dapat nasa pagitan ng 1 at 65535 ang port</string>
+    <string name="ip_address">IP address</string>
+    <string name="no_saved_proxies">Wala pang naka-save na proxy. Kumonekta nang isang beses para mag-save.</string>
+    <string name="permission_message">Pinoprotektahan ng Android ang setting ng proxy para sa buong system. Bigyan ang app na ito ng access nang isang beses gamit ang computer na may naka-enable na USB debugging, pagkatapos ay buksan muli ang app at kumonekta.\n\n%1$s</string>
+    <string name="port">Port</string>
+    <string name="proxy_apply_failed">Hindi ma-enable ng Android ang system proxy</string>
+    <string name="proxy_disable_failed">Hindi ma-disable ng Android ang system proxy</string>
+    <string name="proxy_disabled">Naka-disable ang system proxy</string>
+    <string name="proxy_enabled">Naka-enable ang system proxy</string>
+    <string name="proxy_information">Impormasyon ng proxy</string>
+    <string name="proxy_status_accessibility">Status ng proxy: %1$s. Ipakita ang mga detalye.</string>
+    <string name="proxy_status_details">Status ng proxy</string>
+    <string name="remove_saved_proxy">Alisin ang %1$s</string>
+    <string name="saved_proxies">Mga naka-save na proxy</string>
+    <string name="status_no_proxy">Walang naka-enable na system HTTP proxy.</string>
+    <string name="status_other_proxy">May ibang system proxy na naka-configure: %1$s</string>
+    <string name="status_using_proxy">Ginagamit ng device na ito ang %1$s bilang system HTTP proxy nito.</string>
+    <string name="switch_to_dark_theme">Lumipat sa madilim na tema</string>
+    <string name="switch_to_light_theme">Lumipat sa maliwanag na tema</string>
+</resources>

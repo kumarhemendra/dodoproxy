@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_command_copied">ADB కమాండ్ కాపీ అయింది</string>
+    <string name="adb_command_label">అనుమతి ఇచ్చే ADB కమాండ్</string>
+    <string name="allow_proxy_control">ప్రాక్సీ నియంత్రణను అనుమతించండి</string>
+    <string name="app_name">DodoProxy</string>
+    <string name="close">మూసివేయి</string>
+    <string name="connect_proxy">ప్రాక్సీని కనెక్ట్ చేయండి</string>
+    <string name="connected">కనెక్ట్ అయింది</string>
+    <string name="connected_lowercase">కనెక్ట్ అయింది</string>
+    <string name="copy_command">కమాండ్‌ను కాపీ చేయండి</string>
+    <string name="disconnect_proxy">ప్రాక్సీని డిస్‌కనెక్ట్ చేయండి</string>
+    <string name="disconnected">డిస్‌కనెక్ట్ అయింది</string>
+    <string name="disconnected_lowercase">డిస్‌కనెక్ట్ అయింది</string>
+    <string name="info_message">ప్రాక్సీ ఆన్‌లో ఉన్నప్పుడు DodoProxyని అన్‌ఇన్‌స్టాల్ చేస్తే ఈ సెట్టింగ్ పరికరంలో అలాగే ఉండవచ్చు.\n\nయాప్‌ను అన్‌ఇన్‌స్టాల్ చేయడానికి ముందు ప్రాక్సీని ఆఫ్ చేయండి.</string>
+    <string name="invalid_host">సరైన IP చిరునామా లేదా హోస్ట్ పేరు నమోదు చేయండి</string>
+    <string name="invalid_port">పోర్ట్ 1 నుండి 65535 మధ్య ఉండాలి</string>
+    <string name="ip_address">IP చిరునామా</string>
+    <string name="no_saved_proxies">ఇంకా ప్రాక్సీలు సేవ్ కాలేదు. సేవ్ చేయడానికి ఒకసారి కనెక్ట్ చేయండి.</string>
+    <string name="permission_message">Android సిస్టమ్ అంతటా ప్రాక్సీ సెట్టింగ్‌ను రక్షిస్తుంది. USB డీబగ్గింగ్ ఆన్ చేసిన కంప్యూటర్ నుండి ఈ యాప్‌కు ఒకసారి అనుమతి ఇవ్వండి, తర్వాత యాప్‌ను మళ్లీ తెరిచి కనెక్ట్ చేయండి.\n\n%1$s</string>
+    <string name="port">పోర్ట్</string>
+    <string name="proxy_apply_failed">Android సిస్టమ్ ప్రాక్సీని ఆన్ చేయలేకపోయింది</string>
+    <string name="proxy_disable_failed">Android సిస్టమ్ ప్రాక్సీని ఆఫ్ చేయలేకపోయింది</string>
+    <string name="proxy_disabled">సిస్టమ్ ప్రాక్సీ ఆఫ్ అయింది</string>
+    <string name="proxy_enabled">సిస్టమ్ ప్రాక్సీ ఆన్ అయింది</string>
+    <string name="proxy_information">ప్రాక్సీ సమాచారం</string>
+    <string name="proxy_status_accessibility">ప్రాక్సీ స్థితి: %1$s. వివరాలు చూపు.</string>
+    <string name="proxy_status_details">ప్రాక్సీ స్థితి</string>
+    <string name="remove_saved_proxy">%1$sని తీసివేయి</string>
+    <string name="saved_proxies">సేవ్ చేసిన ప్రాక్సీలు</string>
+    <string name="status_no_proxy">సిస్టమ్ HTTP ప్రాక్సీ ఏదీ ఆన్‌లో లేదు.</string>
+    <string name="status_other_proxy">మరొక సిస్టమ్ ప్రాక్సీ కాన్ఫిగర్ చేయబడింది: %1$s</string>
+    <string name="status_using_proxy">ఈ పరికరం %1$sని సిస్టమ్ HTTP ప్రాక్సీగా ఉపయోగిస్తోంది.</string>
+    <string name="switch_to_dark_theme">డార్క్ థీమ్‌కు మారండి</string>
+    <string name="switch_to_light_theme">లైట్ థీమ్‌కు మారండి</string>
+</resources>

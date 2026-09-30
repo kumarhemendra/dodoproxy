@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DodoProxy</string>
+    <string name="switch_to_light_theme">Chuyển sang giao diện sáng</string>
+    <string name="switch_to_dark_theme">Chuyển sang giao diện tối</string>
+    <string name="proxy_information">Thông tin proxy</string>
+    <string name="connect_proxy">Kết nối proxy</string>
+    <string name="disconnect_proxy">Ngắt kết nối proxy</string>
+    <string name="proxy_status_accessibility">Trạng thái proxy: %1$s. Xem chi tiết.</string>
+    <string name="connected">ĐÃ KẾT NỐI</string>
+    <string name="disconnected">ĐÃ NGẮT KẾT NỐI</string>
+    <string name="connected_lowercase">đã kết nối</string>
+    <string name="disconnected_lowercase">đã ngắt kết nối</string>
+    <string name="ip_address">Địa chỉ IP</string>
+    <string name="port">Cổng</string>
+    <string name="invalid_host">Nhập địa chỉ IP hoặc tên máy chủ hợp lệ</string>
+    <string name="invalid_port">Cổng phải nằm trong khoảng từ 1 đến 65535</string>
+    <string name="allow_proxy_control">Cho phép điều khiển proxy</string>
+    <string name="permission_message">Android bảo vệ cài đặt proxy trên toàn hệ thống. Hãy cấp quyền cho ứng dụng này một lần từ máy tính đã bật gỡ lỗi USB, sau đó mở lại ứng dụng và kết nối.\n\n%1$s</string>
+    <string name="info_message">Gỡ cài đặt DodoProxy khi proxy đang bật có thể khiến cài đặt này vẫn còn trên thiết bị.\n\nHãy tắt proxy trước khi gỡ cài đặt ứng dụng.</string>
+    <string name="status_using_proxy">Thiết bị này đang dùng %1$s làm proxy HTTP hệ thống.</string>
+    <string name="status_no_proxy">Không có proxy HTTP hệ thống nào đang bật.</string>
+    <string name="status_other_proxy">Một proxy hệ thống khác đang được cấu hình: %1$s</string>
+    <string name="adb_command_label">Lệnh ADB cấp quyền</string>
+    <string name="adb_command_copied">Đã sao chép lệnh ADB</string>
+    <string name="copy_command">Sao chép lệnh</string>
+    <string name="close">Đóng</string>
+    <string name="proxy_enabled">Đã bật proxy hệ thống</string>
+    <string name="proxy_disabled">Đã tắt proxy hệ thống</string>
+    <string name="proxy_apply_failed">Android không thể bật proxy hệ thống</string>
+    <string name="proxy_disable_failed">Android không thể tắt proxy hệ thống</string>
+    <string name="saved_proxies">Proxy đã lưu</string>
+    <string name="remove_saved_proxy">Xóa %1$s</string>
+    <string name="no_saved_proxies">Chưa có proxy nào được lưu. Kết nối một lần để lưu.</string>
+    <string name="proxy_status_details">Trạng thái proxy</string>
+</resources>

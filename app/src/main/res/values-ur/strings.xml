@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DodoProxy</string>
+    <string name="switch_to_light_theme">روشن تھیم پر جائیں</string>
+    <string name="switch_to_dark_theme">تاریک تھیم پر جائیں</string>
+    <string name="proxy_information">پراکسی کی معلومات</string>
+    <string name="connect_proxy">پراکسی منسلک کریں</string>
+    <string name="disconnect_proxy">پراکسی منقطع کریں</string>
+    <string name="proxy_status_accessibility">پراکسی کی حالت: %1$s۔ تفصیلات دکھائیں۔</string>
+    <string name="connected">منسلک</string>
+    <string name="disconnected">منقطع</string>
+    <string name="connected_lowercase">منسلک</string>
+    <string name="disconnected_lowercase">منقطع</string>
+    <string name="ip_address">IP پتہ</string>
+    <string name="port">پورٹ</string>
+    <string name="invalid_host">درست IP پتہ یا میزبان کا نام درج کریں</string>
+    <string name="invalid_port">پورٹ 1 سے 65535 کے درمیان ہونا چاہیے</string>
+    <string name="allow_proxy_control">پراکسی کنٹرول کی اجازت دیں</string>
+    <string name="permission_message">Android پورے نظام کی پراکسی ترتیب کو محفوظ رکھتا ہے۔ USB ڈیبگنگ فعال کمپیوٹر سے اس ایپ کو ایک بار اجازت دیں، پھر ایپ دوبارہ کھول کر منسلک ہوں۔\n\n%1$s</string>
+    <string name="info_message">پراکسی فعال ہونے کے دوران DodoProxy اَن انسٹال کرنے سے یہ ترتیب آپ کے آلے پر باقی رہ سکتی ہے۔\n\nایپ اَن انسٹال کرنے سے پہلے پراکسی بند کریں۔</string>
+    <string name="status_using_proxy">یہ آلہ %1$s کو سسٹم HTTP پراکسی کے طور پر استعمال کر رہا ہے۔</string>
+    <string name="status_no_proxy">کوئی سسٹم HTTP پراکسی فعال نہیں ہے۔</string>
+    <string name="status_other_proxy">ایک اور سسٹم پراکسی ترتیب دی گئی ہے: %1$s</string>
+    <string name="adb_command_label">اجازت دینے کی ADB کمانڈ</string>
+    <string name="adb_command_copied">ADB کمانڈ کاپی ہو گئی</string>
+    <string name="copy_command">کمانڈ کاپی کریں</string>
+    <string name="close">بند کریں</string>
+    <string name="proxy_enabled">سسٹم پراکسی فعال ہو گئی</string>
+    <string name="proxy_disabled">سسٹم پراکسی بند ہو گئی</string>
+    <string name="proxy_apply_failed">Android سسٹم پراکسی فعال نہیں کر سکا</string>
+    <string name="proxy_disable_failed">Android سسٹم پراکسی بند نہیں کر سکا</string>
+    <string name="saved_proxies">محفوظ شدہ پراکسیاں</string>
+    <string name="remove_saved_proxy">%1$s ہٹائیں</string>
+    <string name="no_saved_proxies">ابھی کوئی پراکسی محفوظ نہیں ہے۔ محفوظ کرنے کے لیے ایک بار منسلک ہوں۔</string>
+    <string name="proxy_status_details">پراکسی کی حالت</string>
+</resources>

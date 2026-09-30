@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DodoProxy</string>
+    <string name="switch_to_light_theme">Mudar para o tema claro</string>
+    <string name="switch_to_dark_theme">Mudar para o tema escuro</string>
+    <string name="proxy_information">Informações do proxy</string>
+    <string name="connect_proxy">Ligar ao proxy</string>
+    <string name="disconnect_proxy">Desligar do proxy</string>
+    <string name="proxy_status_accessibility">Estado do proxy: %1$s. Mostrar detalhes.</string>
+    <string name="connected">LIGADO</string>
+    <string name="disconnected">DESLIGADO</string>
+    <string name="connected_lowercase">ligado</string>
+    <string name="disconnected_lowercase">desligado</string>
+    <string name="ip_address">Endereço IP</string>
+    <string name="port">Porta</string>
+    <string name="invalid_host">Introduza um endereço IP ou nome de anfitrião válido</string>
+    <string name="invalid_port">A porta deve estar entre 1 e 65535</string>
+    <string name="allow_proxy_control">Permitir o controlo do proxy</string>
+    <string name="permission_message">O Android protege a definição do proxy do sistema. Conceda acesso a esta aplicação uma vez a partir de um computador com a depuração USB ativada. Depois, reabra a aplicação e ligue-se.\n\n%1$s</string>
+    <string name="info_message">Desinstalar o DodoProxy com o proxy ativo pode deixar esta definição no dispositivo.\n\nDesative o proxy antes de desinstalar a aplicação.</string>
+    <string name="status_using_proxy">Este dispositivo está a usar %1$s como proxy HTTP do sistema.</string>
+    <string name="status_no_proxy">Não está ativo nenhum proxy HTTP do sistema.</string>
+    <string name="status_other_proxy">Está configurado outro proxy do sistema: %1$s</string>
+    <string name="adb_command_label">Comando ADB para conceder acesso</string>
+    <string name="adb_command_copied">Comando ADB copiado</string>
+    <string name="copy_command">Copiar comando</string>
+    <string name="close">Fechar</string>
+    <string name="proxy_enabled">Proxy do sistema ativado</string>
+    <string name="proxy_disabled">Proxy do sistema desativado</string>
+    <string name="proxy_apply_failed">O Android não conseguiu ativar o proxy do sistema</string>
+    <string name="proxy_disable_failed">O Android não conseguiu desativar o proxy do sistema</string>
+    <string name="saved_proxies">Proxies guardados</string>
+    <string name="remove_saved_proxy">Remover %1$s</string>
+    <string name="no_saved_proxies">Ainda não existem proxies guardados. Ligue-se uma vez para guardar um.</string>
+    <string name="proxy_status_details">Estado do proxy</string>
+</resources>

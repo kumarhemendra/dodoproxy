@@ -2,7 +2,6 @@
 <resources>
     <string name="adb_command_copied">ADB कमांड कॉपी किया गया</string>
     <string name="adb_command_label">ADB अनुमति कमांड</string>
-    <string name="adb_grant_command">adb shell pm grant com.dodo.proxytoggle android.permission.WRITE_SECURE_SETTINGS</string>
     <string name="allow_proxy_control">प्रॉक्सी नियंत्रण की अनुमति दें</string>
     <string name="app_name">DodoProxy</string>
     <string name="close">बंद करें</string>
@@ -13,7 +12,7 @@
     <string name="disconnect_proxy">प्रॉक्सी डिस्कनेक्ट करें</string>
     <string name="disconnected">डिस्कनेक्टेड</string>
     <string name="disconnected_lowercase">डिस्कनेक्टेड</string>
-    <string name="info_message">प्रॉक्सी चालू रहते हुए Proxy Toggle को अनइंस्टॉल करने पर यह सेटिंग डिवाइस पर बनी रह सकती है।\n\nऐप अनइंस्टॉल करने से पहले प्रॉक्सी बंद करें।</string>
+    <string name="info_message">प्रॉक्सी चालू रहते हुए DodoProxy को अनइंस्टॉल करने पर यह सेटिंग डिवाइस पर बनी रह सकती है।\n\nऐप अनइंस्टॉल करने से पहले प्रॉक्सी बंद करें।</string>
     <string name="invalid_host">मान्य IP पता या होस्टनाम दर्ज करें</string>
     <string name="invalid_port">पोर्ट 1 से 65535 के बीच होना चाहिए</string>
     <string name="ip_address">IP पता</string>

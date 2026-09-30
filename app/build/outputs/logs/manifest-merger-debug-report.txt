@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from [androidx.compose.animation:animation-core-android:1.12.1] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/cb0e33d97248d0a73708876eeb5899d1/transformed/animation-core/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-ripple-android:1.12.1] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/1c3442413173c7759f796e7c22c7fbc4/transformed/material-ripple/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.animation:animation-android:1.12.1] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/089aa98d07aab3bb627d105c5d32e6dc/transformed/animation/AndroidManifest.xml:2:1-7:12
@@ -56,24 +56,24 @@ MERGED from [androidx.tracing:tracing:1.2.0] /Users/hemendra.kumar/.gradle/cache
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/3071a2927e8bc2d07122a273bc47025a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/d7a9f2986fed402e7ec897c13339e34c/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:2:5-51
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:2:5-51
 	android:versionCode
-		INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.WRITE_SECURE_SETTINGS
-ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:3:5-5:47
+ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:3:5-5:47
 	tools:ignore
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:5:9-44
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:5:9-44
 	android:name
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:4:9-64
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:4:9-64
 application
-ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:7:5-25:19
-INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:7:5-25:19
+ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:7:5-25:19
+INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:7:5-25:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.12.1] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/24ba016f3ae95b087ea0e1517b34d824/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.12.1] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/24ba016f3ae95b087ea0e1517b34d824/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.window:window:1.5.0] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/e977686f0709b55766311c70c35b73be/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
@@ -91,47 +91,47 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/hemendra.k
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/02e4907f766fe55bc9e34092eb4eecc0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/02e4907f766fe55bc9e34092eb4eecc0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml
 	android:localeConfig
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:13:9-51
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:13:9-51
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.18.0] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/f1f45f1f72ffcdf67bac6e055818f475/transformed/core-1.18.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:12:9-41
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:12:9-41
 	android:fullBackupContent
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:10:9-54
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:10:9-54
 	tools:targetApi
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:16:9-35
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:16:9-35
 	android:icon
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:11:9-45
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:11:9-45
 	android:allowBackup
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:8:9-36
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:8:9-36
 	android:theme
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:15:9-40
 	android:dataExtractionRules
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:9:9-65
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:9:9-65
 activity#com.dodo.proxytoggle.MainActivity
-ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:17:9-24:20
+ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:17:9-24:20
 	android:exported
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:19:13-36
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:19:13-36
 	android:name
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:18:13-41
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:18:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:20:13-23:29
+ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml:22:27-74
 uses-sdk
-INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml
-INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml
 MERGED from [androidx.compose.animation:animation-core-android:1.12.1] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/cb0e33d97248d0a73708876eeb5899d1/transformed/animation-core/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.animation:animation-core-android:1.12.1] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/cb0e33d97248d0a73708876eeb5899d1/transformed/animation-core/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material:material-ripple-android:1.12.1] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/1c3442413173c7759f796e7c22c7fbc4/transformed/material-ripple/AndroidManifest.xml:5:5-44
@@ -235,9 +235,9 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hemendra.kumar/.gr
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/d7a9f2986fed402e7ec897c13339e34c/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/d7a9f2986fed402e7ec897c13339e34c/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hemendra.kumar/Desktop/wintersoldier/Dodo copy/dodoproxy/app/src/main/AndroidManifest.xml
 activity#androidx.compose.ui.tooling.PreviewActivity
 ADDED from [androidx.compose.ui:ui-tooling-android:1.12.1] /Users/hemendra.kumar/.gradle/caches/9.8.0/transforms/24ba016f3ae95b087ea0e1517b34d824/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
 	android:exported

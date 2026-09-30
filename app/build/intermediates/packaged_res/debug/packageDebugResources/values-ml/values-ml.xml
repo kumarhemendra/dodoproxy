@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_command_copied">ADB കമാൻഡ് പകർത്തി</string>
+    <string name="adb_command_label">അനുമതി നൽകാനുള്ള ADB കമാൻഡ്</string>
+    <string name="allow_proxy_control">പ്രോക്സി നിയന്ത്രണം അനുവദിക്കുക</string>
+    <string name="app_name">DodoProxy</string>
+    <string name="close">അടയ്ക്കുക</string>
+    <string name="connect_proxy">പ്രോക്സി കണക്റ്റ് ചെയ്യുക</string>
+    <string name="connected">കണക്റ്റ് ചെയ്തു</string>
+    <string name="connected_lowercase">കണക്റ്റ് ചെയ്തു</string>
+    <string name="copy_command">കമാൻഡ് പകർത്തുക</string>
+    <string name="disconnect_proxy">പ്രോക്സി വിച്ഛേദിക്കുക</string>
+    <string name="disconnected">വിച്ഛേദിച്ചു</string>
+    <string name="disconnected_lowercase">വിച്ഛേദിച്ചു</string>
+    <string name="info_message">പ്രോക്സി ഓണായിരിക്കുമ്പോൾ DodoProxy അൺഇൻസ്റ്റാൾ ചെയ്താൽ ഈ ക്രമീകരണം ഉപകരണത്തിൽ നിലനിൽക്കാം.\n\nആപ്പ് അൺഇൻസ്റ്റാൾ ചെയ്യുന്നതിന് മുമ്പ് പ്രോക്സി ഓഫ് ചെയ്യുക.</string>
+    <string name="invalid_host">സാധുവായ IP വിലാസമോ ഹോസ്റ്റ് നാമമോ നൽകുക</string>
+    <string name="invalid_port">പോർട്ട് 1 മുതൽ 65535 വരെ ആയിരിക്കണം</string>
+    <string name="ip_address">IP വിലാസം</string>
+    <string name="no_saved_proxies">ഇതുവരെ പ്രോക്സികൾ സംരക്ഷിച്ചിട്ടില്ല. സംരക്ഷിക്കാൻ ഒരിക്കൽ കണക്റ്റ് ചെയ്യുക.</string>
+    <string name="permission_message">Android സിസ്റ്റത്തിന്റെ പ്രോക്സി ക്രമീകരണം സംരക്ഷിക്കുന്നു. USB ഡീബഗ്ഗിംഗ് ഓണാക്കിയ കമ്പ്യൂട്ടറിൽ നിന്ന് ഈ ആപ്പിന് ഒരിക്കൽ അനുമതി നൽകുക, തുടർന്ന് ആപ്പ് വീണ്ടും തുറന്ന് കണക്റ്റ് ചെയ്യുക.\n\n%1$s</string>
+    <string name="port">പോർട്ട്</string>
+    <string name="proxy_apply_failed">Android-ന് സിസ്റ്റം പ്രോക്സി ഓണാക്കാനായില്ല</string>
+    <string name="proxy_disable_failed">Android-ന് സിസ്റ്റം പ്രോക്സി ഓഫ് ചെയ്യാനായില്ല</string>
+    <string name="proxy_disabled">സിസ്റ്റം പ്രോക്സി ഓഫ് ചെയ്തു</string>
+    <string name="proxy_enabled">സിസ്റ്റം പ്രോക്സി ഓണാക്കി</string>
+    <string name="proxy_information">പ്രോക്സി വിവരങ്ങൾ</string>
+    <string name="proxy_status_accessibility">പ്രോക്സി നില: %1$s. വിശദാംശങ്ങൾ കാണിക്കുക.</string>
+    <string name="proxy_status_details">പ്രോക്സി നില</string>
+    <string name="remove_saved_proxy">%1$s നീക്കം ചെയ്യുക</string>
+    <string name="saved_proxies">സംരക്ഷിച്ച പ്രോക്സികൾ</string>
+    <string name="status_no_proxy">സിസ്റ്റം HTTP പ്രോക്സി ഒന്നും ഓണല്ല.</string>
+    <string name="status_other_proxy">മറ്റൊരു സിസ്റ്റം പ്രോക്സി ക്രമീകരിച്ചിരിക്കുന്നു: %1$s</string>
+    <string name="status_using_proxy">ഈ ഉപകരണം %1$s സിസ്റ്റം HTTP പ്രോക്സിയായി ഉപയോഗിക്കുന്നു.</string>
+    <string name="switch_to_dark_theme">ഡാർക്ക് തീമിലേക്ക് മാറുക</string>
+    <string name="switch_to_light_theme">ലൈറ്റ് തീമിലേക്ക് മാറുക</string>
+</resources>

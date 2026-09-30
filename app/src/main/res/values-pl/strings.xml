@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DodoProxy</string>
+    <string name="switch_to_light_theme">Przełącz na jasny motyw</string>
+    <string name="switch_to_dark_theme">Przełącz na ciemny motyw</string>
+    <string name="proxy_information">Informacje o serwerze proxy</string>
+    <string name="connect_proxy">Połącz z serwerem proxy</string>
+    <string name="disconnect_proxy">Rozłącz serwer proxy</string>
+    <string name="proxy_status_accessibility">Stan serwera proxy: %1$s. Pokaż szczegóły.</string>
+    <string name="connected">POŁĄCZONO</string>
+    <string name="disconnected">ROZŁĄCZONO</string>
+    <string name="connected_lowercase">połączono</string>
+    <string name="disconnected_lowercase">rozłączono</string>
+    <string name="ip_address">Adres IP</string>
+    <string name="port">Port</string>
+    <string name="invalid_host">Wpisz prawidłowy adres IP lub nazwę hosta</string>
+    <string name="invalid_port">Port musi mieć wartość od 1 do 65535</string>
+    <string name="allow_proxy_control">Zezwól na sterowanie serwerem proxy</string>
+    <string name="permission_message">Android chroni systemowe ustawienia proxy. Przyznaj aplikacji dostęp jeden raz z komputera z włączonym debugowaniem USB, a następnie ponownie otwórz aplikację i połącz się.\n\n%1$s</string>
+    <string name="info_message">Odinstalowanie DodoProxy przy włączonym serwerze proxy może pozostawić to ustawienie na urządzeniu.\n\nWyłącz serwer proxy przed odinstalowaniem aplikacji.</string>
+    <string name="status_using_proxy">To urządzenie używa %1$s jako systemowego serwera proxy HTTP.</string>
+    <string name="status_no_proxy">Systemowy serwer proxy HTTP nie jest włączony.</string>
+    <string name="status_other_proxy">Skonfigurowano inny systemowy serwer proxy: %1$s</string>
+    <string name="adb_command_label">Polecenie ADB nadające uprawnienia</string>
+    <string name="adb_command_copied">Skopiowano polecenie ADB</string>
+    <string name="copy_command">Kopiuj polecenie</string>
+    <string name="close">Zamknij</string>
+    <string name="proxy_enabled">Systemowy serwer proxy włączony</string>
+    <string name="proxy_disabled">Systemowy serwer proxy wyłączony</string>
+    <string name="proxy_apply_failed">Android nie mógł włączyć systemowego serwera proxy</string>
+    <string name="proxy_disable_failed">Android nie mógł wyłączyć systemowego serwera proxy</string>
+    <string name="saved_proxies">Zapisane serwery proxy</string>
+    <string name="remove_saved_proxy">Usuń %1$s</string>
+    <string name="no_saved_proxies">Brak zapisanych serwerów proxy. Połącz się, aby zapisać serwer.</string>
+    <string name="proxy_status_details">Stan serwera proxy</string>
+</resources>

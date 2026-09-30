@@ -2,7 +2,7 @@
 <resources>
     <string name="adb_command_copied">ADB command copied</string>
     <string name="adb_command_label">ADB grant command</string>
-    <string name="adb_grant_command">adb shell pm grant com.dodo.proxytoggle android.permission.WRITE_SECURE_SETTINGS</string>
+    <string name="adb_grant_command" translatable="false">adb shell pm grant com.dodo.proxytoggle android.permission.WRITE_SECURE_SETTINGS</string>
     <string name="allow_proxy_control">Allow proxy control</string>
     <string name="app_name">DodoProxy</string>
     <string name="close">Close</string>
@@ -14,7 +14,7 @@
     <string name="disconnect_proxy">Disconnect proxy</string>
     <string name="disconnected">DISCONNECTED</string>
     <string name="disconnected_lowercase">disconnected</string>
-    <string name="info_message">Uninstalling Proxy Toggle while the proxy is enabled can leave your device with this setting.\n\nMake sure the proxy is disabled before uninstalling the app.</string>
+    <string name="info_message">Uninstalling DodoProxy while the proxy is enabled can leave your device with this setting.\n\nMake sure the proxy is disabled before uninstalling the app.</string>
     <string name="invalid_host">Enter a valid IP address or hostname</string>
     <string name="invalid_port">Port must be between 1 and 65535</string>
     <string name="ip_address">IP Address</string>

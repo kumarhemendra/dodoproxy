@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_command_copied">Commande ADB copiée</string>
+    <string name="adb_command_label">Commande ADB d\'autorisation</string>
+    <string name="allow_proxy_control">Autoriser le contrôle du proxy</string>
+    <string name="app_name">DodoProxy</string>
+    <string name="close">Fermer</string>
+    <string name="connect_proxy">Connecter le proxy</string>
+    <string name="connected">CONNECTÉ</string>
+    <string name="connected_lowercase">connecté</string>
+    <string name="copy_command">Copier la commande</string>
+    <string name="disconnect_proxy">Déconnecter le proxy</string>
+    <string name="disconnected">DÉCONNECTÉ</string>
+    <string name="disconnected_lowercase">déconnecté</string>
+    <string name="info_message">La désinstallation de DodoProxy alors que le proxy est activé peut conserver ce paramètre sur votre appareil.\n\nDésactivez le proxy avant de désinstaller l\'application.</string>
+    <string name="invalid_host">Saisissez une adresse IP ou un nom d\'hôte valide</string>
+    <string name="invalid_port">Le port doit être compris entre 1 et 65535</string>
+    <string name="ip_address">Adresse IP</string>
+    <string name="no_saved_proxies">Aucun proxy enregistré. Connectez-vous une fois pour en enregistrer un.</string>
+    <string name="permission_message">Android protège les paramètres du proxy système. Accordez une fois l\'accès à cette application depuis un ordinateur avec le débogage USB activé, puis rouvrez-la pour vous connecter.\n\n%1$s</string>
+    <string name="port">Port</string>
+    <string name="proxy_apply_failed">Android n\'a pas pu activer le proxy système</string>
+    <string name="proxy_disable_failed">Android n\'a pas pu désactiver le proxy système</string>
+    <string name="proxy_disabled">Proxy système désactivé</string>
+    <string name="proxy_enabled">Proxy système activé</string>
+    <string name="proxy_information">Informations sur le proxy</string>
+    <string name="proxy_status_accessibility">État du proxy : %1$s. Afficher les détails.</string>
+    <string name="proxy_status_details">État du proxy</string>
+    <string name="remove_saved_proxy">Supprimer %1$s</string>
+    <string name="saved_proxies">Proxys enregistrés</string>
+    <string name="status_no_proxy">Aucun proxy HTTP système n\'est activé.</string>
+    <string name="status_other_proxy">Un autre proxy système est configuré : %1$s</string>
+    <string name="status_using_proxy">Cet appareil utilise %1$s comme proxy HTTP système.</string>
+    <string name="switch_to_dark_theme">Passer au thème sombre</string>
+    <string name="switch_to_light_theme">Passer au thème clair</string>
+</resources>

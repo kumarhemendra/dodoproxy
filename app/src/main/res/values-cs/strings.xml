@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DodoProxy</string>
+    <string name="switch_to_light_theme">Přepnout na světlý motiv</string>
+    <string name="switch_to_dark_theme">Přepnout na tmavý motiv</string>
+    <string name="proxy_information">Informace o proxy</string>
+    <string name="connect_proxy">Připojit proxy</string>
+    <string name="disconnect_proxy">Odpojit proxy</string>
+    <string name="proxy_status_accessibility">Stav proxy: %1$s. Zobrazit podrobnosti.</string>
+    <string name="connected">PŘIPOJENO</string>
+    <string name="disconnected">ODPOJENO</string>
+    <string name="connected_lowercase">připojeno</string>
+    <string name="disconnected_lowercase">odpojeno</string>
+    <string name="ip_address">IP adresa</string>
+    <string name="port">Port</string>
+    <string name="invalid_host">Zadejte platnou IP adresu nebo název hostitele</string>
+    <string name="invalid_port">Port musí být v rozsahu 1 až 65535</string>
+    <string name="allow_proxy_control">Povolit ovládání proxy</string>
+    <string name="permission_message">Android chrání celosystémové nastavení proxy. Udělte této aplikaci jednorázově přístup z počítače se zapnutým laděním USB, pak aplikaci znovu otevřete a připojte se.\n\n%1$s</string>
+    <string name="info_message">Odinstalování DodoProxy při zapnuté proxy může ponechat toto nastavení v zařízení.\n\nPřed odinstalováním aplikace proxy vypněte.</string>
+    <string name="status_using_proxy">Toto zařízení používá %1$s jako systémovou HTTP proxy.</string>
+    <string name="status_no_proxy">Není zapnuta žádná systémová HTTP proxy.</string>
+    <string name="status_other_proxy">Je nastavena jiná systémová proxy: %1$s</string>
+    <string name="adb_command_label">Příkaz ADB pro udělení oprávnění</string>
+    <string name="adb_command_copied">Příkaz ADB zkopírován</string>
+    <string name="copy_command">Kopírovat příkaz</string>
+    <string name="close">Zavřít</string>
+    <string name="proxy_enabled">Systémová proxy zapnuta</string>
+    <string name="proxy_disabled">Systémová proxy vypnuta</string>
+    <string name="proxy_apply_failed">Android nemohl zapnout systémovou proxy</string>
+    <string name="proxy_disable_failed">Android nemohl vypnout systémovou proxy</string>
+    <string name="saved_proxies">Uložené proxy</string>
+    <string name="remove_saved_proxy">Odebrat %1$s</string>
+    <string name="no_saved_proxies">Zatím nejsou uloženy žádné proxy. Připojte se, abyste jednu uložili.</string>
+    <string name="proxy_status_details">Stav proxy</string>
+</resources>

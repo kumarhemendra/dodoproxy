@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_command_copied">ADB কমান্ড কপি করা হয়েছে</string>
+    <string name="adb_command_label">অনুমতি দেওয়ার ADB কমান্ড</string>
+    <string name="allow_proxy_control">প্রক্সি নিয়ন্ত্রণের অনুমতি দিন</string>
+    <string name="app_name">DodoProxy</string>
+    <string name="close">বন্ধ করুন</string>
+    <string name="connect_proxy">প্রক্সি সংযোগ করুন</string>
+    <string name="connected">সংযুক্ত</string>
+    <string name="connected_lowercase">সংযুক্ত</string>
+    <string name="copy_command">কমান্ড কপি করুন</string>
+    <string name="disconnect_proxy">প্রক্সি সংযোগ বিচ্ছিন্ন করুন</string>
+    <string name="disconnected">বিচ্ছিন্ন</string>
+    <string name="disconnected_lowercase">বিচ্ছিন্ন</string>
+    <string name="info_message">প্রক্সি চালু থাকা অবস্থায় DodoProxy আনইনস্টল করলে এই সেটিং ডিভাইসে থেকে যেতে পারে।\n\nঅ্যাপটি আনইনস্টল করার আগে প্রক্সি বন্ধ করুন।</string>
+    <string name="invalid_host">সঠিক IP ঠিকানা বা হোস্টনাম লিখুন</string>
+    <string name="invalid_port">পোর্ট ১ থেকে ৬৫৫৩৫-এর মধ্যে হতে হবে</string>
+    <string name="ip_address">IP ঠিকানা</string>
+    <string name="no_saved_proxies">এখনও কোনো প্রক্সি সংরক্ষিত নেই। সংরক্ষণ করতে একবার সংযোগ করুন।</string>
+    <string name="permission_message">Android সিস্টেমের প্রক্সি সেটিং সুরক্ষিত রাখে। USB ডিবাগিং চালু থাকা কম্পিউটার থেকে এই অ্যাপকে একবার অনুমতি দিন, তারপর অ্যাপটি আবার খুলে সংযোগ করুন।\n\n%1$s</string>
+    <string name="port">পোর্ট</string>
+    <string name="proxy_apply_failed">Android সিস্টেম প্রক্সি চালু করতে পারেনি</string>
+    <string name="proxy_disable_failed">Android সিস্টেম প্রক্সি বন্ধ করতে পারেনি</string>
+    <string name="proxy_disabled">সিস্টেম প্রক্সি বন্ধ হয়েছে</string>
+    <string name="proxy_enabled">সিস্টেম প্রক্সি চালু হয়েছে</string>
+    <string name="proxy_information">প্রক্সির তথ্য</string>
+    <string name="proxy_status_accessibility">প্রক্সির অবস্থা: %1$s। বিস্তারিত দেখুন।</string>
+    <string name="proxy_status_details">প্রক্সির অবস্থা</string>
+    <string name="remove_saved_proxy">%1$s সরান</string>
+    <string name="saved_proxies">সংরক্ষিত প্রক্সি</string>
+    <string name="status_no_proxy">কোনো সিস্টেম HTTP প্রক্সি চালু নেই।</string>
+    <string name="status_other_proxy">অন্য একটি সিস্টেম প্রক্সি সেট করা আছে: %1$s</string>
+    <string name="status_using_proxy">এই ডিভাইসটি %1$s-কে সিস্টেম HTTP প্রক্সি হিসেবে ব্যবহার করছে।</string>
+    <string name="switch_to_dark_theme">গাঢ় থিমে পরিবর্তন করুন</string>
+    <string name="switch_to_light_theme">হালকা থিমে পরিবর্তন করুন</string>
+</resources>

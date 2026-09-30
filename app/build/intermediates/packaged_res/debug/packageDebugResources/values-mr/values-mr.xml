@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_command_copied">ADB कमांड कॉपी केली</string>
+    <string name="adb_command_label">परवानगी देण्यासाठी ADB कमांड</string>
+    <string name="allow_proxy_control">प्रॉक्सी नियंत्रणाला परवानगी द्या</string>
+    <string name="app_name">DodoProxy</string>
+    <string name="close">बंद करा</string>
+    <string name="connect_proxy">प्रॉक्सी कनेक्ट करा</string>
+    <string name="connected">कनेक्ट केलेले</string>
+    <string name="connected_lowercase">कनेक्ट केलेले</string>
+    <string name="copy_command">कमांड कॉपी करा</string>
+    <string name="disconnect_proxy">प्रॉक्सी डिस्कनेक्ट करा</string>
+    <string name="disconnected">डिस्कनेक्ट केलेले</string>
+    <string name="disconnected_lowercase">डिस्कनेक्ट केलेले</string>
+    <string name="info_message">प्रॉक्सी सुरू असताना DodoProxy अनइंस्टॉल केल्यास ही सेटिंग तुमच्या डिव्हाइसवर राहू शकते.\n\nअ‍ॅप अनइंस्टॉल करण्यापूर्वी प्रॉक्सी बंद करा.</string>
+    <string name="invalid_host">वैध IP पत्ता किंवा होस्टनाव प्रविष्ट करा</string>
+    <string name="invalid_port">पोर्ट 1 ते 65535 दरम्यान असणे आवश्यक आहे</string>
+    <string name="ip_address">IP पत्ता</string>
+    <string name="no_saved_proxies">अजून प्रॉक्सी जतन केलेला नाही. जतन करण्यासाठी एकदा कनेक्ट करा.</string>
+    <string name="permission_message">Android संपूर्ण सिस्टमच्या प्रॉक्सी सेटिंगचे संरक्षण करते. USB डीबगिंग सुरू असलेल्या संगणकावरून या अ‍ॅपला एकदा परवानगी द्या, नंतर अ‍ॅप पुन्हा उघडून कनेक्ट करा.\n\n%1$s</string>
+    <string name="port">पोर्ट</string>
+    <string name="proxy_apply_failed">Android सिस्टम प्रॉक्सी सुरू करू शकले नाही</string>
+    <string name="proxy_disable_failed">Android सिस्टम प्रॉक्सी बंद करू शकले नाही</string>
+    <string name="proxy_disabled">सिस्टम प्रॉक्सी बंद केला</string>
+    <string name="proxy_enabled">सिस्टम प्रॉक्सी सुरू केला</string>
+    <string name="proxy_information">प्रॉक्सीची माहिती</string>
+    <string name="proxy_status_accessibility">प्रॉक्सीची स्थिती: %1$s. तपशील दाखवा.</string>
+    <string name="proxy_status_details">प्रॉक्सीची स्थिती</string>
+    <string name="remove_saved_proxy">%1$s काढा</string>
+    <string name="saved_proxies">जतन केलेले प्रॉक्सी</string>
+    <string name="status_no_proxy">कोणताही सिस्टम HTTP प्रॉक्सी सुरू नाही.</string>
+    <string name="status_other_proxy">दुसरा सिस्टम प्रॉक्सी कॉन्फिगर केलेला आहे: %1$s</string>
+    <string name="status_using_proxy">हे डिव्हाइस %1$s सिस्टम HTTP प्रॉक्सी म्हणून वापरत आहे.</string>
+    <string name="switch_to_dark_theme">गडद थीमवर स्विच करा</string>
+    <string name="switch_to_light_theme">उजळ थीमवर स्विच करा</string>
+</resources>

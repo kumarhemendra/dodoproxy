@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_command_copied">คัดลอกคำสั่ง ADB แล้ว</string>
+    <string name="adb_command_label">คำสั่ง ADB สำหรับให้สิทธิ์</string>
+    <string name="allow_proxy_control">อนุญาตให้ควบคุมพร็อกซี</string>
+    <string name="app_name">DodoProxy</string>
+    <string name="close">ปิด</string>
+    <string name="connect_proxy">เชื่อมต่อพร็อกซี</string>
+    <string name="connected">เชื่อมต่อแล้ว</string>
+    <string name="connected_lowercase">เชื่อมต่อแล้ว</string>
+    <string name="copy_command">คัดลอกคำสั่ง</string>
+    <string name="disconnect_proxy">ยกเลิกการเชื่อมต่อพร็อกซี</string>
+    <string name="disconnected">ไม่ได้เชื่อมต่อ</string>
+    <string name="disconnected_lowercase">ไม่ได้เชื่อมต่อ</string>
+    <string name="info_message">หากถอนการติดตั้ง DodoProxy ขณะที่เปิดใช้พร็อกซี การตั้งค่านี้อาจยังคงอยู่ในอุปกรณ์\n\nปิดพร็อกซีก่อนถอนการติดตั้งแอป</string>
+    <string name="invalid_host">ป้อนที่อยู่ IP หรือชื่อโฮสต์ที่ถูกต้อง</string>
+    <string name="invalid_port">พอร์ตต้องอยู่ระหว่าง 1 ถึง 65535</string>
+    <string name="ip_address">ที่อยู่ IP</string>
+    <string name="no_saved_proxies">ยังไม่มีพร็อกซีที่บันทึกไว้ เชื่อมต่อหนึ่งครั้งเพื่อบันทึก</string>
+    <string name="permission_message">Android ปกป้องการตั้งค่าพร็อกซีของระบบ ให้สิทธิ์แอปนี้หนึ่งครั้งผ่านคอมพิวเตอร์ที่เปิดใช้การแก้ไขข้อบกพร่อง USB จากนั้นเปิดแอปอีกครั้งแล้วเชื่อมต่อ\n\n%1$s</string>
+    <string name="port">พอร์ต</string>
+    <string name="proxy_apply_failed">Android ไม่สามารถเปิดใช้พร็อกซีของระบบ</string>
+    <string name="proxy_disable_failed">Android ไม่สามารถปิดพร็อกซีของระบบ</string>
+    <string name="proxy_disabled">ปิดพร็อกซีของระบบแล้ว</string>
+    <string name="proxy_enabled">เปิดใช้พร็อกซีของระบบแล้ว</string>
+    <string name="proxy_information">ข้อมูลพร็อกซี</string>
+    <string name="proxy_status_accessibility">สถานะพร็อกซี: %1$s แสดงรายละเอียด</string>
+    <string name="proxy_status_details">สถานะพร็อกซี</string>
+    <string name="remove_saved_proxy">นำ %1$s ออก</string>
+    <string name="saved_proxies">พร็อกซีที่บันทึกไว้</string>
+    <string name="status_no_proxy">ไม่มีพร็อกซี HTTP ของระบบที่เปิดใช้งาน</string>
+    <string name="status_other_proxy">มีการกำหนดค่าพร็อกซีอื่นของระบบ: %1$s</string>
+    <string name="status_using_proxy">อุปกรณ์นี้ใช้ %1$s เป็นพร็อกซี HTTP ของระบบ</string>
+    <string name="switch_to_dark_theme">เปลี่ยนเป็นธีมมืด</string>
+    <string name="switch_to_light_theme">เปลี่ยนเป็นธีมสว่าง</string>
+</resources>

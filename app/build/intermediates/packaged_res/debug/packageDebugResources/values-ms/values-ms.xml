@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_command_copied">Perintah ADB disalin</string>
+    <string name="adb_command_label">Perintah ADB untuk memberi kebenaran</string>
+    <string name="allow_proxy_control">Benarkan kawalan proksi</string>
+    <string name="app_name">DodoProxy</string>
+    <string name="close">Tutup</string>
+    <string name="connect_proxy">Sambungkan proksi</string>
+    <string name="connected">DISAMBUNGKAN</string>
+    <string name="connected_lowercase">disambungkan</string>
+    <string name="copy_command">Salin perintah</string>
+    <string name="disconnect_proxy">Putuskan sambungan proksi</string>
+    <string name="disconnected">DIPUTUSKAN</string>
+    <string name="disconnected_lowercase">diputuskan</string>
+    <string name="info_message">Menyahpasang DodoProxy semasa proksi diaktifkan boleh menyebabkan tetapan ini kekal pada peranti anda.\n\nMatikan proksi sebelum menyahpasang aplikasi.</string>
+    <string name="invalid_host">Masukkan alamat IP atau nama hos yang sah</string>
+    <string name="invalid_port">Port mestilah antara 1 hingga 65535</string>
+    <string name="ip_address">Alamat IP</string>
+    <string name="no_saved_proxies">Belum ada proksi disimpan. Sambungkan sekali untuk menyimpannya.</string>
+    <string name="permission_message">Android melindungi tetapan proksi seluruh sistem. Berikan akses kepada aplikasi ini sekali daripada komputer dengan penyahpepijatan USB diaktifkan, kemudian buka semula aplikasi dan sambungkan.\n\n%1$s</string>
+    <string name="port">Port</string>
+    <string name="proxy_apply_failed">Android tidak dapat mengaktifkan proksi sistem</string>
+    <string name="proxy_disable_failed">Android tidak dapat mematikan proksi sistem</string>
+    <string name="proxy_disabled">Proksi sistem dimatikan</string>
+    <string name="proxy_enabled">Proksi sistem diaktifkan</string>
+    <string name="proxy_information">Maklumat proksi</string>
+    <string name="proxy_status_accessibility">Status proksi: %1$s. Tunjukkan butiran.</string>
+    <string name="proxy_status_details">Status proksi</string>
+    <string name="remove_saved_proxy">Alih keluar %1$s</string>
+    <string name="saved_proxies">Proksi disimpan</string>
+    <string name="status_no_proxy">Tiada proksi HTTP sistem yang diaktifkan.</string>
+    <string name="status_other_proxy">Proksi sistem lain sedang dikonfigurasi: %1$s</string>
+    <string name="status_using_proxy">Peranti ini menggunakan %1$s sebagai proksi HTTP sistem.</string>
+    <string name="switch_to_dark_theme">Tukar kepada tema gelap</string>
+    <string name="switch_to_light_theme">Tukar kepada tema cerah</string>
+</resources>

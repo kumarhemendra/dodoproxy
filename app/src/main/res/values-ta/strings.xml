@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DodoProxy</string>
+    <string name="switch_to_light_theme">ஒளி தீமுக்கு மாறவும்</string>
+    <string name="switch_to_dark_theme">இருண்ட தீமுக்கு மாறவும்</string>
+    <string name="proxy_information">பதிலி தகவல்</string>
+    <string name="connect_proxy">பதிலியை இணைக்கவும்</string>
+    <string name="disconnect_proxy">பதிலியைத் துண்டிக்கவும்</string>
+    <string name="proxy_status_accessibility">பதிலி நிலை: %1$s. விவரங்களைக் காட்டு.</string>
+    <string name="connected">இணைக்கப்பட்டது</string>
+    <string name="disconnected">துண்டிக்கப்பட்டது</string>
+    <string name="connected_lowercase">இணைக்கப்பட்டது</string>
+    <string name="disconnected_lowercase">துண்டிக்கப்பட்டது</string>
+    <string name="ip_address">IP முகவரி</string>
+    <string name="port">போர்ட்</string>
+    <string name="invalid_host">சரியான IP முகவரி அல்லது ஹோஸ்ட் பெயரை உள்ளிடவும்</string>
+    <string name="invalid_port">போர்ட் 1 முதல் 65535 வரை இருக்க வேண்டும்</string>
+    <string name="allow_proxy_control">பதிலியைக் கட்டுப்படுத்த அனுமதி</string>
+    <string name="permission_message">Android கணினி முழுவதற்குமான பதிலி அமைப்பைப் பாதுகாக்கிறது. USB பிழைத்திருத்தம் இயக்கப்பட்ட கணினியிலிருந்து இந்தச் செயலிக்கு ஒருமுறை அனுமதி அளித்து, பின்னர் செயலியை மீண்டும் திறந்து இணைக்கவும்.\n\n%1$s</string>
+    <string name="info_message">பதிலி இயக்கப்பட்டிருக்கும்போது DodoProxy-ஐ நீக்கினால், இந்த அமைப்பு சாதனத்தில் தொடர்ந்து இருக்கலாம்.\n\nசெயலியை நீக்கும் முன் பதிலியை முடக்கவும்.</string>
+    <string name="status_using_proxy">இந்தச் சாதனம் %1$s-ஐ கணினி HTTP பதிலியாகப் பயன்படுத்துகிறது.</string>
+    <string name="status_no_proxy">கணினி HTTP பதிலி எதுவும் இயக்கப்படவில்லை.</string>
+    <string name="status_other_proxy">மற்றொரு கணினி பதிலி அமைக்கப்பட்டுள்ளது: %1$s</string>
+    <string name="adb_command_label">அனுமதி வழங்கும் ADB கட்டளை</string>
+    <string name="adb_command_copied">ADB கட்டளை நகலெடுக்கப்பட்டது</string>
+    <string name="copy_command">கட்டளையை நகலெடு</string>
+    <string name="close">மூடு</string>
+    <string name="proxy_enabled">கணினி பதிலி இயக்கப்பட்டது</string>
+    <string name="proxy_disabled">கணினி பதிலி முடக்கப்பட்டது</string>
+    <string name="proxy_apply_failed">Android கணினி பதிலியை இயக்க முடியவில்லை</string>
+    <string name="proxy_disable_failed">Android கணினி பதிலியை முடக்க முடியவில்லை</string>
+    <string name="saved_proxies">சேமிக்கப்பட்ட பதிலிகள்</string>
+    <string name="remove_saved_proxy">%1$s-ஐ அகற்று</string>
+    <string name="no_saved_proxies">சேமிக்கப்பட்ட பதிலிகள் இல்லை. ஒன்றைச் சேமிக்க ஒருமுறை இணைக்கவும்.</string>
+    <string name="proxy_status_details">பதிலி நிலை</string>
+</resources>

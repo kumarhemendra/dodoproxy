@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_command_copied">ADB-parancs másolva</string>
+    <string name="adb_command_label">ADB-parancs az engedély megadásához</string>
+    <string name="allow_proxy_control">Proxy vezérlésének engedélyezése</string>
+    <string name="app_name">DodoProxy</string>
+    <string name="close">Bezárás</string>
+    <string name="connect_proxy">Proxy csatlakoztatása</string>
+    <string name="connected">CSATLAKOZTATVA</string>
+    <string name="connected_lowercase">csatlakoztatva</string>
+    <string name="copy_command">Parancs másolása</string>
+    <string name="disconnect_proxy">Proxy leválasztása</string>
+    <string name="disconnected">LEVÁLASZTVA</string>
+    <string name="disconnected_lowercase">leválasztva</string>
+    <string name="info_message">Ha a DodoProxy alkalmazást aktív proxy mellett távolítja el, ez a beállítás megmaradhat az eszközön.\n\nAz alkalmazás eltávolítása előtt kapcsolja ki a proxyt.</string>
+    <string name="invalid_host">Adjon meg érvényes IP-címet vagy gazdagépnevet</string>
+    <string name="invalid_port">A portnak 1 és 65535 között kell lennie</string>
+    <string name="ip_address">IP-cím</string>
+    <string name="no_saved_proxies">Még nincs mentett proxy. Csatlakozzon egyszer egy mentéséhez.</string>
+    <string name="permission_message">Az Android védi a rendszerszintű proxybeállítást. Egyszer adjon hozzáférést az alkalmazásnak egy olyan számítógépről, amelyen engedélyezve van az USB-hibakeresés, majd nyissa meg újra az alkalmazást, és csatlakozzon.\n\n%1$s</string>
+    <string name="port">Port</string>
+    <string name="proxy_apply_failed">Az Android nem tudta bekapcsolni a rendszerproxyt</string>
+    <string name="proxy_disable_failed">Az Android nem tudta kikapcsolni a rendszerproxyt</string>
+    <string name="proxy_disabled">Rendszerproxy kikapcsolva</string>
+    <string name="proxy_enabled">Rendszerproxy bekapcsolva</string>
+    <string name="proxy_information">Proxyinformációk</string>
+    <string name="proxy_status_accessibility">Proxy állapota: %1$s. Részletek megjelenítése.</string>
+    <string name="proxy_status_details">Proxy állapota</string>
+    <string name="remove_saved_proxy">%1$s eltávolítása</string>
+    <string name="saved_proxies">Mentett proxyk</string>
+    <string name="status_no_proxy">Nincs aktív rendszer-HTTP-proxy.</string>
+    <string name="status_other_proxy">Másik rendszerproxy van beállítva: %1$s</string>
+    <string name="status_using_proxy">Ez az eszköz a(z) %1$s címet használja rendszer-HTTP-proxyként.</string>
+    <string name="switch_to_dark_theme">Váltás sötét témára</string>
+    <string name="switch_to_light_theme">Váltás világos témára</string>
+</resources>

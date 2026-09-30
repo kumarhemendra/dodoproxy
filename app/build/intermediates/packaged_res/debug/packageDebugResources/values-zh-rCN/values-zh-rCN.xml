@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_command_copied">已复制 ADB 命令</string>
+    <string name="adb_command_label">授予权限的 ADB 命令</string>
+    <string name="allow_proxy_control">允许控制代理</string>
+    <string name="app_name">DodoProxy</string>
+    <string name="close">关闭</string>
+    <string name="connect_proxy">连接代理</string>
+    <string name="connected">已连接</string>
+    <string name="connected_lowercase">已连接</string>
+    <string name="copy_command">复制命令</string>
+    <string name="disconnect_proxy">断开代理</string>
+    <string name="disconnected">未连接</string>
+    <string name="disconnected_lowercase">未连接</string>
+    <string name="info_message">如果在代理开启时卸载 DodoProxy，此设置可能仍会保留在设备上。\n\n请在卸载应用前关闭代理。</string>
+    <string name="invalid_host">请输入有效的 IP 地址或主机名</string>
+    <string name="invalid_port">端口必须介于 1 和 65535 之间</string>
+    <string name="ip_address">IP 地址</string>
+    <string name="no_saved_proxies">还没有保存的代理。连接一次即可保存。</string>
+    <string name="permission_message">Android 会保护系统全局代理设置。请使用已启用 USB 调试的电脑为此应用授予一次权限，然后重新打开应用并连接。\n\n%1$s</string>
+    <string name="port">端口</string>
+    <string name="proxy_apply_failed">Android 无法启用系统代理</string>
+    <string name="proxy_disable_failed">Android 无法关闭系统代理</string>
+    <string name="proxy_disabled">系统代理已关闭</string>
+    <string name="proxy_enabled">系统代理已启用</string>
+    <string name="proxy_information">代理信息</string>
+    <string name="proxy_status_accessibility">代理状态：%1$s。查看详情。</string>
+    <string name="proxy_status_details">代理状态</string>
+    <string name="remove_saved_proxy">移除 %1$s</string>
+    <string name="saved_proxies">已保存的代理</string>
+    <string name="status_no_proxy">未启用系统 HTTP 代理。</string>
+    <string name="status_other_proxy">当前配置了其他系统代理：%1$s</string>
+    <string name="status_using_proxy">此设备正在使用 %1$s 作为系统 HTTP 代理。</string>
+    <string name="switch_to_dark_theme">切换到深色主题</string>
+    <string name="switch_to_light_theme">切换到浅色主题</string>
+</resources>

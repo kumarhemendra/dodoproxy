@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DodoProxy</string>
+    <string name="switch_to_light_theme">Beralih ke tema terang</string>
+    <string name="switch_to_dark_theme">Beralih ke tema gelap</string>
+    <string name="proxy_information">Informasi proksi</string>
+    <string name="connect_proxy">Hubungkan proksi</string>
+    <string name="disconnect_proxy">Putuskan proksi</string>
+    <string name="proxy_status_accessibility">Status proksi: %1$s. Tampilkan detail.</string>
+    <string name="connected">TERHUBUNG</string>
+    <string name="disconnected">TERPUTUS</string>
+    <string name="connected_lowercase">terhubung</string>
+    <string name="disconnected_lowercase">terputus</string>
+    <string name="ip_address">Alamat IP</string>
+    <string name="port">Port</string>
+    <string name="invalid_host">Masukkan alamat IP atau nama host yang valid</string>
+    <string name="invalid_port">Port harus antara 1 dan 65535</string>
+    <string name="allow_proxy_control">Izinkan kontrol proksi</string>
+    <string name="permission_message">Android melindungi pengaturan proksi sistem. Berikan akses ke aplikasi ini sekali dari komputer dengan debugging USB aktif, lalu buka kembali aplikasi dan hubungkan.\n\n%1$s</string>
+    <string name="info_message">Menghapus DodoProxy saat proksi aktif dapat membuat pengaturan ini tetap ada di perangkat.\n\nNonaktifkan proksi sebelum menghapus aplikasi.</string>
+    <string name="status_using_proxy">Perangkat ini menggunakan %1$s sebagai proksi HTTP sistem.</string>
+    <string name="status_no_proxy">Tidak ada proksi HTTP sistem yang aktif.</string>
+    <string name="status_other_proxy">Proksi sistem lain sedang dikonfigurasi: %1$s</string>
+    <string name="adb_command_label">Perintah ADB untuk memberikan izin</string>
+    <string name="adb_command_copied">Perintah ADB disalin</string>
+    <string name="copy_command">Salin perintah</string>
+    <string name="close">Tutup</string>
+    <string name="proxy_enabled">Proksi sistem diaktifkan</string>
+    <string name="proxy_disabled">Proksi sistem dinonaktifkan</string>
+    <string name="proxy_apply_failed">Android tidak dapat mengaktifkan proksi sistem</string>
+    <string name="proxy_disable_failed">Android tidak dapat menonaktifkan proksi sistem</string>
+    <string name="saved_proxies">Proksi tersimpan</string>
+    <string name="remove_saved_proxy">Hapus %1$s</string>
+    <string name="no_saved_proxies">Belum ada proksi tersimpan. Hubungkan sekali untuk menyimpannya.</string>
+    <string name="proxy_status_details">Status proksi</string>
+</resources>

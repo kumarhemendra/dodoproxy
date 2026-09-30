@@ -8,7 +8,7 @@ DodoProxy configures Android's global HTTP proxy for apps that honor the system 
 - Validate the proxy host and port before applying settings.
 - Remember the entered host and port.
 - Restore the previous proxy when disconnecting, without overwriting a setting changed by another app or user.
-- English, Spanish, and Hindi translations, with support for Android's per-app language settings on Android 13 and later.
+- Translations in 40 locales: Arabic, Bengali, Chinese (Simplified and Traditional), Czech, Dutch, English, Filipino, Finnish, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Kannada, Korean, Malay, Malayalam, Marathi, Persian, Polish, Portuguese (Brazil and Portugal), Romanian, Russian, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, and Vietnamese. Supports Android's per-app language settings on Android 13 and later.
 
 ## Screenshots
 
@@ -19,8 +19,14 @@ DodoProxy configures Android's global HTTP proxy for apps that honor the system 
 ## Requirements
 
 - Android 6.0 (API 23) or later.
-- Android Studio, or a compatible JDK to build with the included Gradle wrapper.
+- Android Studio, or a compatible JDK to build with the included Gradle wrapper (only if building from source).
 - `WRITE_SECURE_SETTINGS` permission granted through ADB. This protected permission cannot be granted through the normal Android runtime-permission prompt.
+
+## Download APK
+
+Download [DodoProxy v1.0 debug APK](apk/DodoProxy-v1.0-debug.apk) and install it on an Android 6.0 or newer device. If Android prompts you to allow installation from your browser or file manager, grant permission to that source.
+
+This is a **debug build**, signed with a development key for testing, not a production release. To update an existing installation, the new APK must be signed with the same key; otherwise uninstall the old app first (after disabling its proxy). Follow the ADB permission step below before connecting a proxy.
 
 ## Build
 
@@ -29,6 +35,8 @@ Open the project in Android Studio and run the `app` configuration, or build a d
 ```sh
 ./gradlew assembleDebug
 ```
+
+The generated APK is at `app/build/outputs/apk/debug/app-debug.apk`. The downloadable copy in `apk/` must be replaced when shipping a new version.
 
 ## Setup and usage
 

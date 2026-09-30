@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DodoProxy</string>
+    <string name="switch_to_light_theme">ಲೈಟ್ ಥೀಮ್‌ಗೆ ಬದಲಿಸಿ</string>
+    <string name="switch_to_dark_theme">ಡಾರ್ಕ್ ಥೀಮ್‌ಗೆ ಬದಲಿಸಿ</string>
+    <string name="proxy_information">ಪ್ರಾಕ್ಸಿ ಮಾಹಿತಿ</string>
+    <string name="connect_proxy">ಪ್ರಾಕ್ಸಿ ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="disconnect_proxy">ಪ್ರಾಕ್ಸಿ ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಿ</string>
+    <string name="proxy_status_accessibility">ಪ್ರಾಕ್ಸಿ ಸ್ಥಿತಿ: %1$s. ವಿವರಗಳನ್ನು ತೋರಿಸಿ.</string>
+    <string name="connected">ಸಂಪರ್ಕಗೊಂಡಿದೆ</string>
+    <string name="disconnected">ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿದೆ</string>
+    <string name="connected_lowercase">ಸಂಪರ್ಕಗೊಂಡಿದೆ</string>
+    <string name="disconnected_lowercase">ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿದೆ</string>
+    <string name="ip_address">IP ವಿಳಾಸ</string>
+    <string name="port">ಪೋರ್ಟ್</string>
+    <string name="invalid_host">ಮಾನ್ಯ IP ವಿಳಾಸ ಅಥವಾ ಹೋಸ್ಟ್ ಹೆಸರು ನಮೂದಿಸಿ</string>
+    <string name="invalid_port">ಪೋರ್ಟ್ 1 ರಿಂದ 65535 ರ ನಡುವೆ ಇರಬೇಕು</string>
+    <string name="allow_proxy_control">ಪ್ರಾಕ್ಸಿ ನಿಯಂತ್ರಣಕ್ಕೆ ಅನುಮತಿ ನೀಡಿ</string>
+    <string name="permission_message">Android ಸಿಸ್ಟಮ್‌ನ ಪ್ರಾಕ್ಸಿ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ರಕ್ಷಿಸುತ್ತದೆ. USB ಡೀಬಗಿಂಗ್ ಸಕ್ರಿಯವಾಗಿರುವ ಕಂಪ್ಯೂಟರ್‌ನಿಂದ ಈ ಆ್ಯಪ್‌ಗೆ ಒಮ್ಮೆ ಪ್ರವೇಶ ನೀಡಿ, ನಂತರ ಆ್ಯಪ್ ಅನ್ನು ಮತ್ತೆ ತೆರೆದು ಸಂಪರ್ಕಿಸಿ.\n\n%1$s</string>
+    <string name="info_message">ಪ್ರಾಕ್ಸಿ ಸಕ್ರಿಯವಾಗಿರುವಾಗ DodoProxy ಅನ್ನು ಅನ್‌ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದರೆ ಈ ಸೆಟ್ಟಿಂಗ್ ಸಾಧನದಲ್ಲಿ ಉಳಿಯಬಹುದು.\n\nಆ್ಯಪ್ ಅನ್‌ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡುವ ಮೊದಲು ಪ್ರಾಕ್ಸಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ.</string>
+    <string name="status_using_proxy">ಈ ಸಾಧನವು %1$s ಅನ್ನು ಸಿಸ್ಟಮ್ HTTP ಪ್ರಾಕ್ಸಿಯಾಗಿ ಬಳಸುತ್ತಿದೆ.</string>
+    <string name="status_no_proxy">ಯಾವುದೇ ಸಿಸ್ಟಮ್ HTTP ಪ್ರಾಕ್ಸಿ ಸಕ್ರಿಯವಾಗಿಲ್ಲ.</string>
+    <string name="status_other_proxy">ಬೇರೆ ಸಿಸ್ಟಮ್ ಪ್ರಾಕ್ಸಿ ಕಾನ್ಫಿಗರ್ ಆಗಿದೆ: %1$s</string>
+    <string name="adb_command_label">ಅನುಮತಿ ನೀಡುವ ADB ಆಜ್ಞೆ</string>
+    <string name="adb_command_copied">ADB ಆಜ್ಞೆ ನಕಲಿಸಲಾಗಿದೆ</string>
+    <string name="copy_command">ಆಜ್ಞೆಯನ್ನು ನಕಲಿಸಿ</string>
+    <string name="close">ಮುಚ್ಚಿ</string>
+    <string name="proxy_enabled">ಸಿಸ್ಟಮ್ ಪ್ರಾಕ್ಸಿ ಸಕ್ರಿಯವಾಗಿದೆ</string>
+    <string name="proxy_disabled">ಸಿಸ್ಟಮ್ ಪ್ರಾಕ್ಸಿ ನಿಷ್ಕ್ರಿಯವಾಗಿದೆ</string>
+    <string name="proxy_apply_failed">Android ಸಿಸ್ಟಮ್ ಪ್ರಾಕ್ಸಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="proxy_disable_failed">Android ಸಿಸ್ಟಮ್ ಪ್ರಾಕ್ಸಿಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="saved_proxies">ಉಳಿಸಿದ ಪ್ರಾಕ್ಸಿಗಳು</string>
+    <string name="remove_saved_proxy">%1$s ತೆಗೆದುಹಾಕಿ</string>
+    <string name="no_saved_proxies">ಇನ್ನೂ ಯಾವುದೇ ಪ್ರಾಕ್ಸಿ ಉಳಿಸಿಲ್ಲ. ಉಳಿಸಲು ಒಮ್ಮೆ ಸಂಪರ್ಕಿಸಿ.</string>
+    <string name="proxy_status_details">ಪ್ರಾಕ್ಸಿ ಸ್ಥಿತಿ</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DodoProxy</string>
+    <string name="switch_to_light_theme">Badilisha kwenda mandhari angavu</string>
+    <string name="switch_to_dark_theme">Badilisha kwenda mandhari meusi</string>
+    <string name="proxy_information">Maelezo ya proksi</string>
+    <string name="connect_proxy">Unganisha proksi</string>
+    <string name="disconnect_proxy">Tenganisha proksi</string>
+    <string name="proxy_status_accessibility">Hali ya proksi: %1$s. Onyesha maelezo.</string>
+    <string name="connected">IMEUNGANISHWA</string>
+    <string name="disconnected">IMETENGANISHWA</string>
+    <string name="connected_lowercase">imeunganishwa</string>
+    <string name="disconnected_lowercase">imetenganishwa</string>
+    <string name="ip_address">Anwani ya IP</string>
+    <string name="port">Mlango</string>
+    <string name="invalid_host">Weka anwani halali ya IP au jina la seva</string>
+    <string name="invalid_port">Mlango lazima uwe kati ya 1 na 65535</string>
+    <string name="allow_proxy_control">Ruhusu udhibiti wa proksi</string>
+    <string name="permission_message">Android hulinda mipangilio ya proksi ya mfumo mzima. Ipe programu hii ruhusa mara moja kupitia kompyuta yenye utatuzi wa USB uliowashwa, kisha fungua programu tena na uunganishe.\n\n%1$s</string>
+    <string name="info_message">Kuondoa DodoProxy wakati proksi imewashwa kunaweza kuacha mpangilio huu kwenye kifaa chako.\n\nZima proksi kabla ya kuondoa programu.</string>
+    <string name="status_using_proxy">Kifaa hiki kinatumia %1$s kama proksi ya HTTP ya mfumo.</string>
+    <string name="status_no_proxy">Hakuna proksi ya HTTP ya mfumo iliyowashwa.</string>
+    <string name="status_other_proxy">Proksi nyingine ya mfumo imesanidiwa: %1$s</string>
+    <string name="adb_command_label">Amri ya ADB ya kutoa ruhusa</string>
+    <string name="adb_command_copied">Amri ya ADB imenakiliwa</string>
+    <string name="copy_command">Nakili amri</string>
+    <string name="close">Funga</string>
+    <string name="proxy_enabled">Proksi ya mfumo imewashwa</string>
+    <string name="proxy_disabled">Proksi ya mfumo imezimwa</string>
+    <string name="proxy_apply_failed">Android haikuweza kuwasha proksi ya mfumo</string>
+    <string name="proxy_disable_failed">Android haikuweza kuzima proksi ya mfumo</string>
+    <string name="saved_proxies">Proksi zilizohifadhiwa</string>
+    <string name="remove_saved_proxy">Ondoa %1$s</string>
+    <string name="no_saved_proxies">Bado hakuna proksi zilizohifadhiwa. Unganisha mara moja ili uhifadhi.</string>
+    <string name="proxy_status_details">Hali ya proksi</string>
+</resources>
